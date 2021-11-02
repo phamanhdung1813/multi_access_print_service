@@ -1,4 +1,8 @@
 # MULTI ACCESS PRINT SERVICE
+### In this project we have to learn about the SAMBA, CUPS and PRINTING SERVICE on Window Server and linux Centos
+### By the default, all three servers cannot communicate for printing service.
+### We have to configure the Printing Server on WINDOW SERVER machine and Linux Machine.
+### Establishing the communication on 3 machines to allow Printing Service connection. 
 
 ![diagram](https://user-images.githubusercontent.com/71564211/139777533-48539059-b0fc-4085-aa20-994847287538.PNG)
 
