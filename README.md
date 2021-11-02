@@ -111,6 +111,7 @@
 
 ## SAMBA service to connect from Linux to Window 2008 R2
 * vi /etc/samba/smb.conf
+
 ![18](https://user-images.githubusercontent.com/71564211/139779172-0306d7b3-c633-4372-914e-4c0d2b39f1d2.PNG)
 
 ![19](https://user-images.githubusercontent.com/71564211/139779184-4e2ed8e3-ecac-4e61-8d25-89a41c76f82e.PNG)
@@ -127,8 +128,8 @@
 ### WINDOW REMOTE CONNECTION
 
 On your WINDOW SERVER VM, Open RUN terminal. Then type your CentOS LINUX IP ADDRESS
-* 
-* ![image](https://user-images.githubusercontent.com/71564211/139779315-2a5757f4-29a3-4faa-b786-eb38e48bc2cf.png)
+ 
+![image](https://user-images.githubusercontent.com/71564211/139779315-2a5757f4-29a3-4faa-b786-eb38e48bc2cf.png)
 
 * Open Server Manager and Add your new Printer 
 ![21](https://user-images.githubusercontent.com/71564211/139779439-08e39b8a-d246-4dac-9d10-42dbc9517e26.PNG)
