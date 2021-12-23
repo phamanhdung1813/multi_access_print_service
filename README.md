@@ -1,6 +1,6 @@
 # multi_access_print_service
 
-### [![multi_access_print_service](http://img.youtube.com/vi/hTH7GU0Fraw/0.jpg)](http://www.youtube.com/watch?v=hTH7GU0Fraw)
+### [![multi_access_print_service](http://img.youtube.com/vi/hTH7GU0Fraw/hqdefault.jpg)](http://www.youtube.com/watch?v=hTH7GU0Fraw)
 
 # MULTI ACCESS PRINT SERVICE
 ### In this project we have to learn about the SAMBA, CUPS and PRINTING SERVICE on Window Server and linux Centos
